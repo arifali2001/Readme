@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifali2001&label=Profile%20views&color=0e75b6&style=flat" alt="arifali2001" /> </p>
 
-- 🔭 I’m currently working on **Online Tic-Tac-Toe Game**
+- 🔭 I’m currently working on **A GPU Bloging Webiste**, **Online Tic-Tac-Toe Game**
 
 - 🌱 I’m currently learning **Java Full Stack**
 
